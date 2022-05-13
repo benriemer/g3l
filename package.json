@@ -44,7 +44,7 @@
     "global-modules": "^0.2.3",
     "h0m3": "^1.0.1",
     "ignoring-watcher": "^1.1.0",
-    "inquirer": "^1.2.3",
+    "inquirer": "^6.5.1",
     "is-git-url": "^0.2.3",
     "m4g1c": "^1.0.14",
     "node-emoji": "^1.4.1",
@@ -53,6 +53,6 @@
     "pm2": "^2.1.6",
     "prompt": "^1.0.0",
     "underscore": "^1.8.3",
-    "update-notifier": "^1.0.2"
+    "update-notifier": "^4.0.0"
   }
 }
