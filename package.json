@@ -53,6 +53,6 @@
     "pm2": "^2.1.6",
     "prompt": "^1.0.0",
     "underscore": "^1.8.3",
-    "update-notifier": "^1.0.2"
+    "update-notifier": "^6.0.0"
   }
 }
