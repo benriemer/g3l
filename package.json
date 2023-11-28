@@ -48,11 +48,11 @@
     "is-git-url": "^0.2.3",
     "m4g1c": "^1.0.14",
     "node-emoji": "^1.4.1",
-    "node-notifier": "^4.6.1",
+    "node-notifier": "^5.0.0",
     "opn": "^4.0.2",
-    "pm2": "^2.1.6",
+    "pm2": "^4.4.0",
     "prompt": "^1.0.0",
     "underscore": "^1.8.3",
-    "update-notifier": "^1.0.2"
+    "update-notifier": "^2.3.0"
   }
 }
